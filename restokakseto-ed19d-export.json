@@ -1,0 +1,91 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://ucarecdn.com/11d9ecaf-f24f-477e-b2fa-fcbb383d83d5/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "Name" : "NASI dan LAUK"
+    },
+    "02" : {
+      "Image" : "https://ucarecdn.com/71012a02-df89-46cf-9b9c-55adfd62aaeb/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "Name" : "MIE"
+    },
+    "03" : {
+      "Image" : "https://ucarecdn.com/e42fc8a6-5a9a-4777-a0a6-36e40e1a0033/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "Name" : "MAKANAN RINGAN"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://ucarecdn.com/11d9ecaf-f24f-477e-b2fa-fcbb383d83d5/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "MenuId" : "01",
+      "Name" : "NASI GONGSO AYAM",
+      "Price" : "25000"
+    },
+    "02" : {
+      "Description" : "",
+      "Discount" : "",
+      "Image" : "https://ucarecdn.com/274a4c66-1436-4e86-b14d-8e8cc38c993b/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "MenuId" : "01",
+      "Name" : "AYAM BAKAR BUMBU BALI",
+      "Price" : "25000"
+    },
+    "03" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://ucarecdn.com/71012a02-df89-46cf-9b9c-55adfd62aaeb/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "MenuId" : "02",
+      "Name" : "MIE GORENG SPESIAL",
+      "Price" : "20000"
+    },
+    "04" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://ucarecdn.com/16cf1ec4-493f-4f52-babe-db90521caa8e/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "MenuId" : "02",
+      "Name" : "MIE KUAH SPESIAL",
+      "Price" : "20000"
+    },
+    "05" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://ucarecdn.com/e42fc8a6-5a9a-4777-a0a6-36e40e1a0033/-/scale_crop/1280x720/center/-/quality/lighter/",
+      "MenuId" : "03",
+      "Name" : "KLEPON JUMBO",
+      "Price" : "10000"
+    }
+  },
+  "Requests" : {
+    "1547025043115" : {
+      "address" : "",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "1000",
+        "productId" : "14",
+        "productName" : "THAI STYLE SALAD",
+        "quantity" : "2"
+      } ],
+      "name" : "seto",
+      "status" : "0",
+      "total" : "$2,000.00"
+    }
+  },
+  "User" : {
+    "89" : {
+      "name" : "seto aji",
+      "password" : "89"
+    },
+    "123" : {
+      "name" : "seto",
+      "password" : "123"
+    },
+    "345" : {
+      "name" : "ulita",
+      "password" : "345"
+    },
+    "789" : {
+      "name" : "aji",
+      "password" : "789"
+    }
+  }
+}
