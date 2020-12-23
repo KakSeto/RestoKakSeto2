@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713428313095",
+    "firebase_url": "https://restokakseto-ed19d.firebaseio.com",
+    "project_id": "restokakseto-ed19d",
+    "storage_bucket": "restokakseto-ed19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713428313095:android:1e8d623b0f823e90",
+        "android_client_info": {
+          "package_name": "com.example.seto.restokakseto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713428313095-1l96tmbfsm8jliot0t3uhioibophibg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhtlNys_eo5U45zTnHGrY804PCsOUyT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
